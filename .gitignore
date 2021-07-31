@@ -1,0 +1,6 @@
+build-A*
+.vs/*
+.vscode/*
+gui/Aggregator.pro.user
+gui/debug/*
+gui/Forest/aggMain.cpp

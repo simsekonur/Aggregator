@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>failure.ico</file>
+        <file>success.ico</file>
+        <file>a_icon.png</file>
+        <file>dsuc.svg</file>
+        <file>dfail.svg</file>
+        <file>branch.png</file>
+        <file>leaf.png</file>
+        <file>forest.png</file>
+        <file>root.png</file>
+        <file>success2.png</file>
+        <file>seeding.png</file>
+        <file>database.png</file>
+    </qresource>
+</RCC>
